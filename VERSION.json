@@ -1,0 +1,46 @@
+{
+  "release": "v232",
+  "date": "2026-10-27",
+  "optimizer": "v197r1",
+  "cohort": "v218/C",
+  "source_modules": 96,
+  "benchmark_instances": 30,
+  "reserved_instance_contents_included": false,
+  "archives": [
+    {
+      "file": "cas_source_v232.zip",
+      "sha256": "f49376f3e1830cd7bf71c3887f541a8c3f8dce4d589fb8762f8737ddef13ec5e",
+      "bytes": 624219
+    },
+    {
+      "file": "cas_instances_v232.zip",
+      "sha256": "0b9ce440772d99ad6ec6996548ef440e2451f0d5cc6c1a786ddf7dfc8db1ef6b",
+      "bytes": 165643
+    },
+    {
+      "file": "cas_analysis_v232.zip",
+      "sha256": "3b3516d2d9501cb5a07436309ea7c14e7f104a4b9a15e4353bfdbe686f45ea61",
+      "bytes": 3757891
+    }
+  ],
+  "environments": {
+    "experiments": {
+      "Python": "3.10.19",
+      "NumPy": "2.2.6",
+      "OR-Tools": "9.15.6755"
+    },
+    "statistics_and_figures": {
+      "Python": "3.12+",
+      "NumPy": "2.3.5",
+      "Matplotlib": "3.10.7"
+    }
+  },
+  "anonymity": {
+    "project_author_names": false,
+    "project_affiliations": false,
+    "emails": false,
+    "local_home_paths": false,
+    "paper_uploaded": false,
+    "third_party_license_notices_preserved": true
+  }
+}

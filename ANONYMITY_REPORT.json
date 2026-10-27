@@ -1,0 +1,14 @@
+{
+  "scope": "anonymous public reproduction files only",
+  "project_identity_matches": [],
+  "home_path_matches": [],
+  "email_matches": [],
+  "archive_files": {
+    "cas_source_v232.zip": 115,
+    "cas_analysis_v232.zip": 11,
+    "cas_instances_v232.zip": 32
+  },
+  "status": "passed",
+  "third_party_licenses_retained": true,
+  "paper_files_uploaded": false
+}
